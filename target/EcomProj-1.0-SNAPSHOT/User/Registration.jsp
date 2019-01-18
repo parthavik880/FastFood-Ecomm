@@ -13,7 +13,7 @@
           <div class="container">
                 <h1>Registration</h1>
                 <br>
-            <form method="post" action="${pageContext.request.contextPath}/AddUserToDB">
+            <form method="post" onsubmit="validate()" action="${pageContext.request.contextPath}/AddUserToDB">
                 <input type="text" placeholder="Enter Username" name="username" class="form-control"><br>
                 <input type="password" class="form-control" name="password" placeholder="Enter Password"><br>
                 <input type="text" placeholder="Enter Email" name="email" class="form-control"><br>

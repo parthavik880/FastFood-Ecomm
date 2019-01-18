@@ -52,9 +52,9 @@ public class UpdateProductToDB extends HttpServlet {
 
             File f = new File(request.getRealPath("") + "/" + part.getSubmittedFileName());
             Cloudinary cloudinary = new Cloudinary(ObjectUtils.asMap(
-                    "cloud_name", "grocer",
-                    "api_key", "875458824828554",
-                    "api_secret", "jBb-86WC4kUtEZ6hqYcULXcbeh0"));
+                    "cloud_name", "nrcloud",
+                    "api_key", "641456894247944",
+                    "api_secret", "jBb-XkdZG-kAr7Ga8a0QU10ARXV1_Bs"));
 
             Map uploadResult = cloudinary.uploader().upload(f, ObjectUtils.emptyMap());
             String imagePath = (String) uploadResult.get("secure_url");

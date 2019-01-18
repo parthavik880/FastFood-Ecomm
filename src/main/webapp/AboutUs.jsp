@@ -12,17 +12,17 @@
         <c:import url="/header.jsp"></c:import>
         <div class="container">
             <h4>Company Info</h4>   
-            <h3>  This website is developed by Sumen manna  </h3>
+            <h3>  This website is developed by Nitin Raturi </h3>
             <p> In this website you can purchase many products cheaper than other.On this website you have fully security and get perfect goods if you get any fault in your product then you can easy replace that product in less condition. here you can get newer goods</p>
             <h> contact</h>
             <p>
-                ph.no.8860168638<br>
+                ph.no.9654124856<br>
                 <br>
-                Email:sumen565@gmail.com<br>
+                Email:nitinraturi8@gmail.com<br>
                 <br>
-                Address: xyz 
+                Address: A-253 Lajpat Nagar 
             </p>
-        </di
+        </div>
         
     </body>
 </html>
