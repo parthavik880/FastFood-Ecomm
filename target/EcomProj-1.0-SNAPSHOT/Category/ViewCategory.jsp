@@ -1,8 +1,3 @@
-<%-- 
-    Document   : ViewCategory
-    Created on : 10 Dec, 2018, 3:07:58 PM
-    Author     : innoc
---%>
 
 <%@page import="com.mycompany.ecomproj.model.User"%>
 <%@page import="com.mycompany.ecomproj.impl.CategoryDAOImpl"%>

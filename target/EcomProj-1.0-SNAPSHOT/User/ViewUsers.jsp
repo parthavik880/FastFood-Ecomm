@@ -1,8 +1,4 @@
-<%-- 
-    Document   : ViewUsers
-    Created on : 4 Jan, 2019, 2:23:58 PM
-    Author     : innoc
---%>
+
 
 <%@page import="com.mycompany.ecomproj.model.User"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>

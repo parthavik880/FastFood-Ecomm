@@ -35,13 +35,13 @@
                 </ol>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img class="d-block w-100" style="height: 400px;" src="images/a.jpg" alt="First slide">
+                        <img class="d-block w-100" style="height: 400px;" src="images/slideimg3.jpeg" alt="First slide">
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" style="height: 400px;" src="images/b.jpg" alt="Second slide">
+                        <img class="d-block w-100" style="height: 400px;" src="images/slideimg4.jpeg" alt="Second slide">
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" style="height: 400px;" src="images/c.jpg" alt="Third slide">
+                        <img class="d-block w-100" style="height: 400px;" src="images/slideimg5.jpeg" alt="Third slide">
                     </div>
                 </div>
                 <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -149,7 +149,7 @@
                                     <!-- Footer   --->
 
                                     <div class="jumbotron" style="color:white;background-color: black; margin-top: 60px; margin-bottom: 0;">
-                                        <p>Welcome to Ecom</p>
+                                        <p>Welcome to SmartShop</p>
                                     </div>
 
                                     </body>

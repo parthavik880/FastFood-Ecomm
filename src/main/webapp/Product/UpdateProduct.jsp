@@ -1,8 +1,3 @@
-<%-- 
-    Document   : UpdateProduct
-    Created on : 10 Dec, 2018, 7:44:00 PM
-    Author     : innoc
---%>
 
 <%@page import="com.mycompany.ecomproj.model.User"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>

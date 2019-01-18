@@ -1,8 +1,3 @@
-<%-- 
-    Document   : AddCategory
-    Created on : 10 Dec, 2018, 1:39:29 PM
-    Author     : innoc
---%>
 
 <%@page import="com.mycompany.ecomproj.model.User"%>
 <%@page import="com.mycompany.ecomproj.impl.CategoryDAOImpl"%>

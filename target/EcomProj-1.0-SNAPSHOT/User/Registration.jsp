@@ -1,8 +1,3 @@
-<%-- 
-    Document   : Registration
-    Created on : 4 Jan, 2019, 2:22:19 PM
-    Author     : innoc
---%>
 
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
